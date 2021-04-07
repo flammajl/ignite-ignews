@@ -39,3 +39,7 @@ $ yarn dev | npm run dev
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
+
+## 📝 Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo de [LICENÇA](https://github.com/flammajl/ignite-ignews/blob/main/LICENSE) para detalhes.
